@@ -1,0 +1,1 @@
+As a web development intern at PRODIGY I have completed my First Task of creating a responsive landing page.In this task i have created a landing page for cakes. which is visually appealing cakes images in different flavours and i had created along with customer reviwes and to place order .
